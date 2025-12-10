@@ -1,0 +1,5 @@
+read current account
+if balance<=100, print " increase credit"
+else 
+print"  eligible for loan"
+endif
